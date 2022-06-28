@@ -1,0 +1,7 @@
+C:\Users\user\source\repos\Lab session 3\Lab session 3\bin\Debug\Lab session 3.exe.config
+C:\Users\user\source\repos\Lab session 3\Lab session 3\bin\Debug\Lab session 3.exe
+C:\Users\user\source\repos\Lab session 3\Lab session 3\bin\Debug\Lab session 3.pdb
+C:\Users\user\source\repos\Lab session 3\Lab session 3\obj\Debug\Lab session 3.csprojAssemblyReference.cache
+C:\Users\user\source\repos\Lab session 3\Lab session 3\obj\Debug\Lab session 3.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\Lab session 3\Lab session 3\obj\Debug\Lab session 3.exe
+C:\Users\user\source\repos\Lab session 3\Lab session 3\obj\Debug\Lab session 3.pdb
